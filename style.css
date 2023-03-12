@@ -1,0 +1,28 @@
+﻿.my-bot{
+     padding-top:2%;
+}
+
+.my-top{
+     padding-bottom:2%;
+}
+
+.my-row{
+     padding: 5%;
+     width: 70%;
+     margin: 0 auto;
+}
+
+.my-input-pink{
+     border: 2px solid rgb(244, 56, 88);
+}
+
+#error{
+     color: rgb(197, 197, 197);
+     background-color: red;
+     width: 70%;
+     font-size: 5em;
+     margin: 2rem auto;
+     border-radius: 5px;
+     display: flex;
+     justify-content: center;
+}
